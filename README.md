@@ -1,7 +1,5 @@
-# obtainium.imranr.dev
+# omeritzics.github.io/updatium-site
 
-User friendly webpage for [Obtainium](https://github.com/ImranR98/Obtainium).
+User friendly webpage for [Updatium](https://github.com/omeritzics/Updatium).
 
 To serve locally, run: `python -m http.server 8080`
-
-Analytics: https://ln.imranr.dev/obt-site-visits
