@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Updatium",
+    "description": "",
+    "home_page_url": "https://omeritzics.github.io/updatium-website",
+    "feed_url": "https://omeritzics.github.io/updatium-website/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Omer I.S."
+    },
+    "items": [
+    ]
+}

@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://omeritzics.github.io/updatium-website/sitemap.xml

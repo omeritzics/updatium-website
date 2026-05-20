@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://omeritzics.github.io/updatium-website/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://omeritzics.github.io/updatium-website/</loc>
+</url>
+<url>
+<loc>https://omeritzics.github.io/updatium-website/updatium.html</loc>
+<lastmod>2026-05-20T08:35:20+03:00</lastmod>
+<image:image>
+<image:loc>https://omeritzics.github.io/updatium-website/media/posts/1/gallery/1.apps.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://omeritzics.github.io/updatium-website/media/posts/1/gallery/2.dark_theme.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://omeritzics.github.io/updatium-website/media/posts/1/gallery/3.material_you.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://omeritzics.github.io/updatium-website/media/posts/1/gallery/4.app.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://omeritzics.github.io/updatium-website/media/posts/1/gallery/5.app_opts.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://omeritzics.github.io/updatium-website/media/posts/1/gallery/6.grid_view.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
